@@ -376,19 +376,19 @@ h1 span {
           align-items: center;
 }
 .section-main .bg--intro .bg-img {
-  background: url(img/intro.png);
+  background-image: url(../img/bg/intro.png);
   background-size: cover;
 }
 .section-main .bg--step1 .bg-img {
-  background: url(img/register-step1.png);
+  background-image: url(../img/bg/register-step1.png);
   background-size: cover;
 }
 .section-main .bg--step2 .bg-img {
-  background: url(img/register-step2.png);
+  background-image: url(../img/bg/register-step2.png);
   background-size: cover;
 }
 .section-main .bg--step3 .bg-img {
-  background: url(img/register-step3.png);
+  background-image: url(../img/bg/register-step3.png);
   background-size: cover;
 }
 .section-main .bg-img {
